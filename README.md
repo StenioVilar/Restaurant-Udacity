@@ -1,2 +1,2 @@
 # Restaurant-Udacity
-Second Project from Udacity Nanodegree / Web Front End (Responsive WebSite)
+Third Project from Udacity Nanodegree / Web Front End (Responsive WebSite)
